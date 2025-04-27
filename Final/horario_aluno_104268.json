@@ -1,0 +1,95 @@
+{
+    "studentNumber": "104268",
+    "shifts": [
+        {
+            "shiftID": 1,
+            "curricularUnit": "Inteligencia Artificial",
+            "startTime": "10:00:00",
+            "endTime": "12:00:00",
+            "shortName": "IA",
+            "day": 0,
+            "room": "1 - Room 218",
+            "capacity": 35
+        },
+        {
+            "shiftID": 3,
+            "curricularUnit": "Sistemas Distribuidos",
+            "startTime": "10:00:00",
+            "endTime": "12:00:00",
+            "shortName": "SD",
+            "day": 1,
+            "room": "1 - Room 122",
+            "capacity": 35
+        },
+        {
+            "shiftID": 8,
+            "curricularUnit": "Comunicacoes por Computador",
+            "startTime": "10:00:00",
+            "endTime": "12:00:00",
+            "shortName": "CC",
+            "day": 3,
+            "room": "1 - Room 211",
+            "capacity": 35
+        },
+        {
+            "shiftID": 10,
+            "curricularUnit": "Calculo de Programas",
+            "startTime": "10:00:00",
+            "endTime": "12:00:00",
+            "shortName": "CP",
+            "day": 4,
+            "room": "2 - Room 1",
+            "capacity": 100
+        },
+        {
+            "shiftID": 14,
+            "curricularUnit": "Desenvolvimento de Sistemas de Software",
+            "startTime": "12:00:00",
+            "endTime": "14:00:00",
+            "shortName": "DSS",
+            "day": 0,
+            "room": "7 - Room 11",
+            "capacity": 35
+        },
+        {
+            "shiftID": 22,
+            "curricularUnit": "Calculo de Programas",
+            "startTime": "12:00:00",
+            "endTime": "14:00:00",
+            "shortName": "CP",
+            "day": 2,
+            "room": "2 - Room 210",
+            "capacity": 35
+        },
+        {
+            "shiftID": 35,
+            "curricularUnit": "Desenvolvimento de Sistemas de Software",
+            "startTime": "16:30:00",
+            "endTime": "18:30:00",
+            "shortName": "DSS",
+            "day": 2,
+            "room": "1 - Room 8",
+            "capacity": 200
+        },
+        {
+            "shiftID": 36,
+            "curricularUnit": "Inteligencia Artificial",
+            "startTime": "17:00:00",
+            "endTime": "19:00:00",
+            "shortName": "IA",
+            "day": 0,
+            "room": "1 - Room 8",
+            "capacity": 200
+        },
+        {
+            "shiftID": 38,
+            "curricularUnit": "Comunicacoes por Computador",
+            "startTime": "17:00:00",
+            "endTime": "19:00:00",
+            "shortName": "CC",
+            "day": 3,
+            "room": "3 - Room 7",
+            "capacity": 100
+        }
+    ]
+}

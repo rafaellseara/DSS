@@ -1,6 +1,12 @@
 
 # Academic Project using MySQL
 
+---
+
+## Grade: 14/20 ⭐
+
+---
+
 This is a Java project that uses MySQL as the database, with build and execution configuration through Gradle, made for the class of 'Desenvolvimento de Sistemas de Software' in the 1st semester of the 3rd year of 'Engenharia Informática' at UMinho.
 
 ## Requirements
